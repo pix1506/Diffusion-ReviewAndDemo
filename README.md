@@ -1,5 +1,6 @@
 # Diffusion
  ![1](./readme/1.png)
+ ![2](./readme/2.png)
 
 
 ## Reference
